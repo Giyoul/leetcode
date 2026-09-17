@@ -8,7 +8,7 @@
 
 - 1\. [Easy] ~~Two Sum~~
 - 14\. [Easy] ~~Longest Common Prefix~~
-- 27\. [Easy] Remove Element
+- 27\. [Easy] ~~Remove Element~~
 - 169\. [Easy] Majority Element
 - 217\. [Easy] Contains Duplicate
 - 242\. [Easy] Valid Anagram
