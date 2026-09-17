@@ -10,7 +10,7 @@
 - 14\. [Easy] ~~Longest Common Prefix~~
 - 27\. [Easy] ~~Remove Element~~
 - 169\. [Easy] ~~Majority Element~~
-- 217\. [Easy] Contains Duplicate
+- 217\. [Easy] ~~Contains Duplicate~~
 - 242\. [Easy] Valid Anagram
 - 705\. [Easy] Design HashSet
 - 706\. [Easy] Design HashMap
