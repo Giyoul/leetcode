@@ -1,39 +1,21 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        Set<Character> verticalSet;
-        Set<Character> horizontalSet;
-        Set<Character> squareSet;
+        boolean[][] rows = new boolean[9][9];
+        boolean[][] cols = new boolean[9][9];
+        boolean[][] boxes = new boolean[9][9];
 
-        for(int i = 0; i < 9; i++) {
-            verticalSet = new HashSet<>();
-            horizontalSet = new HashSet<>();
+        for(int i = 0; i < 9; i++){
+            for(int j = 0; j < 9; j++){
+                if(board[i][j] == '.') continue;
 
-            for(int j = 0; j < 9; j++) {
-                if(verticalSet.contains(board[i][j]) || horizontalSet.contains(board[j][i])){
-                    return false;
-                }
-                if(board[i][j] != '.'){
-                    verticalSet.add(board[i][j]);
-                }
-                if(board[j][i] != '.'){
-                    horizontalSet.add(board[j][i]);
-                }                
-            }
-        }
-
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
-                squareSet = new HashSet<>();
-
-                for (int row = i * 3; row < i * 3 + 3; row++) {
-                    for (int col = j * 3; col < j * 3 + 3; col++) {
-                        char val = board[row][col];
-                        if (val != '.') {
-                            if (squareSet.contains(val)) return false;
-                            squareSet.add(val);
-                        }
-                    }
-                }
+                int number = board[i][j] - '1';
+                int boxIdx = (i / 3) * 3 + (j / 3);
+                
+                if(rows[i][number] || cols[j][number] || boxes[boxIdx][number]) return false;
+                
+                rows[i][number] = true;
+                cols[j][number] = true;
+                boxes[boxIdx][number] = true;
             }
         }
 
