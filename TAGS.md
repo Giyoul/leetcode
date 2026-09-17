@@ -11,17 +11,24 @@
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 
-## Hash Table (4)
+## Hash Table (5)
 
 - [1. Two Sum](Easy/0001-two-sum/)
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
+- [242. Valid Anagram](Easy/0242-valid-anagram/)
 
-## Sorting (2)
+## Sorting (3)
 
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
+- [242. Valid Anagram](Easy/0242-valid-anagram/)
+
+## String (2)
+
+- [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
+- [242. Valid Anagram](Easy/0242-valid-anagram/)
 
 ## Boyer–Moore Majority Vote Algorithm (1)
 
@@ -38,10 +45,6 @@
 ## Matrix (1)
 
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
-
-## String (1)
-
-- [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
 
 ## Trie (1)
 
