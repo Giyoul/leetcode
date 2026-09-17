@@ -15,7 +15,7 @@
 - 705\. [Easy] Design HashSet
 - 706\. [Easy] Design HashMap
 - 1929\. [Easy] Concatenation of Array
-- 36\. [Medium] Valid Sudoku
+- 36\. [Medium] ~~Valid Sudoku~~
 - 49\. [Medium] Group Anagrams
 - 75\. [Medium] Sort Colors
 - 122\. [Medium] Best Time to Buy and Sell Stock II
