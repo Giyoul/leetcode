@@ -26,15 +26,17 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
-## String (2)
+## String (3)
 
 - [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
+- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
-## Two Pointers (2)
+## Two Pointers (3)
 
 - [26. Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/)
 - [27. Remove Element](Easy/0027-remove-element/)
+- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
 
 ## Boyer–Moore Majority Vote Algorithm (1)
 
