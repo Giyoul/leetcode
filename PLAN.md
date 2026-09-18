@@ -31,7 +31,7 @@
 
 ## Two Pointers
 
-- 26\. [Easy] Remove Duplicates from Sorted Array
+- 26\. [Easy] ~~Remove Duplicates from Sorted Array~~
 - 88\. [Easy] Merge Sorted Array
 - 125\. [Easy] Valid Palindrome
 - 344\. [Easy] Reverse String
