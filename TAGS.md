@@ -1,10 +1,11 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 10개 분류
+> 자동 생성 · 총 11개 분류
 
-## Array (8)
+## Array (9)
 
 - [1. Two Sum](Easy/0001-two-sum/)
+- [11. Container With Most Water](Medium/0011-container-with-most-water/)
 - [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
 - [26. Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/)
 - [27. Remove Element](Easy/0027-remove-element/)
@@ -21,19 +22,20 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
+## Two Pointers (5)
+
+- [11. Container With Most Water](Medium/0011-container-with-most-water/)
+- [26. Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/)
+- [27. Remove Element](Easy/0027-remove-element/)
+- [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
+- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
+
 ## Sorting (4)
 
 - [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
-
-## Two Pointers (4)
-
-- [26. Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/)
-- [27. Remove Element](Easy/0027-remove-element/)
-- [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
-- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
 
 ## String (3)
 
@@ -52,6 +54,10 @@
 ## Divide and Conquer (1)
 
 - [169. Majority Element](Easy/0169-majority-element/)
+
+## Greedy (1)
+
+- [11. Container With Most Water](Medium/0011-container-with-most-water/)
 
 ## Matrix (1)
 

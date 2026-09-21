@@ -37,7 +37,7 @@
 - 344\. [Easy] Reverse String
 - 680\. [Easy] Valid Palindrome II
 - 1768\. [Easy] Merge Strings Alternately
-- 11\. [Medium] Container with Most Water
+- 11\. [Medium] ~~Container with Most Water~~
 - 15\. [Medium] 3Sum
 - 18\. [Medium] 4Sum
 - 167\. [Medium] Two Sum II - Input Array Is Sorted
