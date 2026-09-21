@@ -63,7 +63,7 @@
 - 225\. [Easy] Implement Stack Using Queues
 - 232\. [Easy] Implement Queue Using Stacks
 - 682\. [Easy] Baseball Game
-- 71\. [Medium] Simplify Path
+- 71\. [Medium] ~~Simplify Path~~
 - 150\. [Medium] Evaluate Reverse Polish Notation
 - 155\. [Medium] Min Stack
 - 394\. [Medium] Decode String

@@ -14,6 +14,15 @@
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 
+## String (6)
+
+- [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
+- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
+- [71. Simplify Path](Medium/0071-simplify-path/)
+- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
+- [242. Valid Anagram](Easy/0242-valid-anagram/)
+- [344. Reverse String](Easy/0344-reverse-string/)
+
 ## Two Pointers (6)
 
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
@@ -31,20 +40,17 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
-## String (5)
-
-- [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
-- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
-- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
-- [242. Valid Anagram](Easy/0242-valid-anagram/)
-- [344. Reverse String](Easy/0344-reverse-string/)
-
 ## Sorting (4)
 
 - [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
+
+## Stack (2)
+
+- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
+- [71. Simplify Path](Medium/0071-simplify-path/)
 
 ## Boyer–Moore Majority Vote Algorithm (1)
 
@@ -69,10 +75,6 @@
 ## Matrix (1)
 
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
-
-## Stack (1)
-
-- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 
 ## Trie (1)
 
