@@ -1,6 +1,6 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 11개 분류
+> 자동 생성 · 총 13개 분류
 
 ## Array (9)
 
@@ -31,6 +31,14 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
+## String (5)
+
+- [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
+- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
+- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
+- [242. Valid Anagram](Easy/0242-valid-anagram/)
+- [344. Reverse String](Easy/0344-reverse-string/)
+
 ## Sorting (4)
 
 - [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
@@ -38,16 +46,13 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
-## String (4)
-
-- [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
-- [125. Valid Palindrome](Easy/0125-valid-palindrome/)
-- [242. Valid Anagram](Easy/0242-valid-anagram/)
-- [344. Reverse String](Easy/0344-reverse-string/)
-
 ## Boyer–Moore Majority Vote Algorithm (1)
 
 - [169. Majority Element](Easy/0169-majority-element/)
+
+## Bracket Sequences (1)
+
+- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 
 ## Counting (1)
 
@@ -64,6 +69,10 @@
 ## Matrix (1)
 
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
+
+## Stack (1)
+
+- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 
 ## Trie (1)
 

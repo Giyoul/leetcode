@@ -59,7 +59,7 @@
 
 ## Stack
 
-- 20\. [Easy] Valid Parentheses
+- 20\. [Easy] ~~Valid Parentheses~~
 - 225\. [Easy] Implement Stack Using Queues
 - 232\. [Easy] Implement Queue Using Stacks
 - 682\. [Easy] Baseball Game
