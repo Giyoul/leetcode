@@ -34,7 +34,7 @@
 - 26\. [Easy] ~~Remove Duplicates from Sorted Array~~
 - 88\. [Easy] ~~Merge Sorted Array~~
 - 125\. [Easy] ~~Valid Palindrome~~
-- 344\. [Easy] Reverse String
+- 344\. [Easy] ~~Reverse String~~
 - 680\. [Easy] Valid Palindrome II
 - 1768\. [Easy] Merge Strings Alternately
 - 11\. [Medium] ~~Container with Most Water~~

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="805" height="198" viewBox="0 0 805 198" role="img" aria-labelledby="title desc">
 <title id="title">LeetCode activity heatmap</title>
-<desc id="desc">14 accepted submissions across 5 active days. Current streak 1 days, best streak 4 days.</desc>
+<desc id="desc">15 accepted submissions across 5 active days. Current streak 1 days, best streak 4 days.</desc>
 <style>
 :root{color-scheme:light dark}
 .label{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#57606a}
@@ -21,7 +21,7 @@
 <text x="36" y="36" class="metric-strong">1d</text>
 <text x="92" y="36" class="metric-muted">Best 4d</text>
 </g>
-<text x="733" y="24" class="metric-muted" text-anchor="end">14 solved · 5 active days</text>
+<text x="733" y="24" class="metric-muted" text-anchor="end">15 solved · 5 active days</text>
 <line x1="34" y1="56" x2="733" y2="56" class="rule" />
 <text x="60" y="67" class="label">Oct</text>
   <text x="112" y="67" class="label">Nov</text>
@@ -409,7 +409,7 @@
   <rect x="710" y="128" width="10" height="10" rx="2" class="cell level-2"><title>2026-09-18: 2 accepted</title></rect>
   <rect x="710" y="141" width="10" height="10" rx="2" class="cell level-1"><title>2026-09-19: 1 accepted</title></rect>
   <rect x="710" y="154" width="10" height="10" rx="2" class="cell level-0"><title>2026-09-20: 0 accepted</title></rect>
-  <rect x="723" y="76" width="10" height="10" rx="2" class="cell level-1"><title>2026-09-21: 1 accepted</title></rect>
+  <rect x="723" y="76" width="10" height="10" rx="2" class="cell level-2"><title>2026-09-21: 2 accepted</title></rect>
 <text x="655" y="183" class="label">Less</text>
 <rect x="684" y="174" width="10" height="10" rx="2" class="cell level-0" />
 <rect x="697" y="174" width="10" height="10" rx="2" class="cell level-1" />
