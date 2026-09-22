@@ -49,7 +49,7 @@
 
 - 121\. [Easy] ~~Best Time to Buy and Sell Stock~~
 - 219\. [Easy] Contains Duplicate II
-- 3\. [Medium] Longest Substring Without Repeating Characters
+- 3\. [Medium] ~~Longest Substring Without Repeating Characters~~
 - 209\. [Medium] Minimum Size Subarray Sum
 - 424\. [Medium] Longest Repeating Character Replacement
 - 567\. [Medium] Permutation in String

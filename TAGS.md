@@ -1,6 +1,6 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 14개 분류
+> 자동 생성 · 총 15개 분류
 
 ## Array (10)
 
@@ -15,14 +15,24 @@
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 
-## String (6)
+## String (7)
 
+- [3. Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/)
 - [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
 - [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 - [71. Simplify Path](Medium/0071-simplify-path/)
 - [125. Valid Palindrome](Easy/0125-valid-palindrome/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 - [344. Reverse String](Easy/0344-reverse-string/)
+
+## Hash Table (6)
+
+- [1. Two Sum](Easy/0001-two-sum/)
+- [3. Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/)
+- [36. Valid Sudoku](Medium/0036-valid-sudoku/)
+- [169. Majority Element](Easy/0169-majority-element/)
+- [217. Contains Duplicate](Easy/0217-contains-duplicate/)
+- [242. Valid Anagram](Easy/0242-valid-anagram/)
 
 ## Two Pointers (6)
 
@@ -32,14 +42,6 @@
 - [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
 - [125. Valid Palindrome](Easy/0125-valid-palindrome/)
 - [344. Reverse String](Easy/0344-reverse-string/)
-
-## Hash Table (5)
-
-- [1. Two Sum](Easy/0001-two-sum/)
-- [36. Valid Sudoku](Medium/0036-valid-sudoku/)
-- [169. Majority Element](Easy/0169-majority-element/)
-- [217. Contains Duplicate](Easy/0217-contains-duplicate/)
-- [242. Valid Anagram](Easy/0242-valid-anagram/)
 
 ## Sorting (4)
 
@@ -80,6 +82,10 @@
 ## Matrix (1)
 
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
+
+## Sliding Window (1)
+
+- [3. Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/)
 
 ## Trie (1)
 
