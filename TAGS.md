@@ -1,8 +1,8 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 13개 분류
+> 자동 생성 · 총 14개 분류
 
-## Array (9)
+## Array (10)
 
 - [1. Two Sum](Easy/0001-two-sum/)
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
@@ -11,6 +11,7 @@
 - [27. Remove Element](Easy/0027-remove-element/)
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
 - [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
+- [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 
@@ -67,6 +68,10 @@
 ## Divide and Conquer (1)
 
 - [169. Majority Element](Easy/0169-majority-element/)
+
+## Dynamic Programming (1)
+
+- [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
 
 ## Greedy (1)
 

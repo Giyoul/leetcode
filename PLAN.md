@@ -47,7 +47,7 @@
 
 ## Sliding Window
 
-- 121\. [Easy] Best Time to Buy and Sell Stock
+- 121\. [Easy] ~~Best Time to Buy and Sell Stock~~
 - 219\. [Easy] Contains Duplicate II
 - 3\. [Medium] Longest Substring Without Repeating Characters
 - 209\. [Medium] Minimum Size Subarray Sum
