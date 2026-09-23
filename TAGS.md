@@ -2,13 +2,14 @@
 
 > 자동 생성 · 총 18개 분류
 
-## Array (12)
+## Array (13)
 
 - [1. Two Sum](Easy/0001-two-sum/)
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
 - [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
 - [26. Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/)
 - [27. Remove Element](Easy/0027-remove-element/)
+- [35. Search Insert Position](Easy/0035-search-insert-position/)
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
 - [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
 - [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
@@ -58,13 +59,14 @@
 - [71. Simplify Path](Medium/0071-simplify-path/)
 - [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
 
+## Binary Search (2)
+
+- [35. Search Insert Position](Easy/0035-search-insert-position/)
+- [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
+
 ## Sliding Window (2)
 
 - [3. Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/)
-- [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
-
-## Binary Search (1)
-
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
 
 ## Boyer–Moore Majority Vote Algorithm (1)
