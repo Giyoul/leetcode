@@ -80,7 +80,7 @@
 - 69\. [Easy] ~~Sqrt(x)~~
 - 374\. [Easy] Guess Number Higher or Lower
 - 704\. [Easy] Binary Search
-- 33\. [Medium] Search in Rotated Sorted Array
+- 33\. [Medium] ~~Search in Rotated Sorted Array~~
 - 74\. [Medium] Search a 2D Matrix
 - 81\. [Medium] Search in Rotated Sorted Array II
 - 153\. [Medium] Find Minimum in Rotated Sorted Array
