@@ -77,7 +77,7 @@
 ## Binary Search
 
 - 35\. [Easy] ~~Search Insert Position~~
-- 69\. [Easy] Sqrt(x)
+- 69\. [Easy] ~~Sqrt(x)~~
 - 374\. [Easy] Guess Number Higher or Lower
 - 704\. [Easy] Binary Search
 - 33\. [Medium] Search in Rotated Sorted Array

@@ -1,6 +1,6 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 18개 분류
+> 자동 생성 · 총 19개 분류
 
 ## Array (13)
 
@@ -53,16 +53,22 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
+## Binary Search (3)
+
+- [35. Search Insert Position](Easy/0035-search-insert-position/)
+- [69. Sqrt(x)](Easy/0069-sqrtx/)
+- [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
+
 ## Stack (3)
 
 - [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 - [71. Simplify Path](Medium/0071-simplify-path/)
 - [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
 
-## Binary Search (2)
+## Math (2)
 
-- [35. Search Insert Position](Easy/0035-search-insert-position/)
-- [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
+- [69. Sqrt(x)](Easy/0069-sqrtx/)
+- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
 
 ## Sliding Window (2)
 
@@ -93,13 +99,13 @@
 
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
 
-## Math (1)
-
-- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
-
 ## Matrix (1)
 
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
+
+## Newton's Method (1)
+
+- [69. Sqrt(x)](Easy/0069-sqrtx/)
 
 ## Prefix Sum (1)
 
