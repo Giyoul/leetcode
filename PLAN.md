@@ -93,7 +93,7 @@
 
 ## Linked List
 
-- 21\. [Easy] Merge Two Sorted Lists
+- 21\. [Easy] ~~Merge Two Sorted Lists~~
 - 141\. [Easy] Linked List Cycle
 - 206\. [Easy] Reverse Linked List
 - 2\. [Medium] Add Two Numbers

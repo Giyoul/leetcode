@@ -1,6 +1,6 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 19개 분류
+> 자동 생성 · 총 21개 분류
 
 ## Array (14)
 
@@ -101,6 +101,10 @@
 
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
 
+## Linked List (1)
+
+- [21. Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/)
+
 ## Matrix (1)
 
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
@@ -112,6 +116,10 @@
 ## Prefix Sum (1)
 
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
+
+## Recursion (1)
+
+- [21. Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/)
 
 ## Trie (1)
 
