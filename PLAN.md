@@ -96,7 +96,7 @@
 - 21\. [Easy] ~~Merge Two Sorted Lists~~
 - 141\. [Easy] Linked List Cycle
 - 206\. [Easy] Reverse Linked List
-- 2\. [Medium] Add Two Numbers
+- 2\. [Medium] ~~Add Two Numbers~~
 - 19\. [Medium] Remove Nth Node from End of List
 - 92\. [Medium] Reverse Linked List II
 - 138\. [Medium] Copy List with Random Pointer

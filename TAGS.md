@@ -61,16 +61,27 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
+## Math (3)
+
+- [2. Add Two Numbers](Medium/0002-add-two-numbers/)
+- [69. Sqrt(x)](Easy/0069-sqrtx/)
+- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
+
 ## Stack (3)
 
 - [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 - [71. Simplify Path](Medium/0071-simplify-path/)
 - [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
 
-## Math (2)
+## Linked List (2)
 
-- [69. Sqrt(x)](Easy/0069-sqrtx/)
-- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
+- [2. Add Two Numbers](Medium/0002-add-two-numbers/)
+- [21. Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/)
+
+## Recursion (2)
+
+- [2. Add Two Numbers](Medium/0002-add-two-numbers/)
+- [21. Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/)
 
 ## Sliding Window (2)
 
@@ -101,10 +112,6 @@
 
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
 
-## Linked List (1)
-
-- [21. Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/)
-
 ## Matrix (1)
 
 - [36. Valid Sudoku](Medium/0036-valid-sudoku/)
@@ -116,10 +123,6 @@
 ## Prefix Sum (1)
 
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
-
-## Recursion (1)
-
-- [21. Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/)
 
 ## Trie (1)
 
