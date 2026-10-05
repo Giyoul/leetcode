@@ -1,8 +1,8 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 21개 분류
+> 자동 생성 · 총 23개 분류
 
-## Array (14)
+## Array (15)
 
 - [1. Two Sum](Easy/0001-two-sum/)
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
@@ -18,6 +18,7 @@
 - [169. Majority Element](Easy/0169-majority-element/)
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
+- [463. Island Perimeter](Easy/0463-island-perimeter/)
 
 ## String (7)
 
@@ -78,6 +79,11 @@
 - [2. Add Two Numbers](Medium/0002-add-two-numbers/)
 - [21. Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/)
 
+## Matrix (2)
+
+- [36. Valid Sudoku](Medium/0036-valid-sudoku/)
+- [463. Island Perimeter](Easy/0463-island-perimeter/)
+
 ## Recursion (2)
 
 - [2. Add Two Numbers](Medium/0002-add-two-numbers/)
@@ -96,9 +102,17 @@
 
 - [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 
+## Breadth-First Search (1)
+
+- [463. Island Perimeter](Easy/0463-island-perimeter/)
+
 ## Counting (1)
 
 - [169. Majority Element](Easy/0169-majority-element/)
+
+## Depth-First Search (1)
+
+- [463. Island Perimeter](Easy/0463-island-perimeter/)
 
 ## Divide and Conquer (1)
 
@@ -111,10 +125,6 @@
 ## Greedy (1)
 
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
-
-## Matrix (1)
-
-- [36. Valid Sudoku](Medium/0036-valid-sudoku/)
 
 ## Newton's Method (1)
 
