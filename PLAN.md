@@ -179,7 +179,7 @@
 ## Graphs
 
 - 463\. [Easy] ~~Island Perimeter~~
-- 953\. [Easy] Verifying an Alien Dictionary
+- 953\. [Easy] ~~Verifying an Alien Dictionary~~
 - 997\. [Easy] Find the Town Judge
 - 130\. [Medium] Surrounded Regions
 - 133\. [Medium] Clone Graph

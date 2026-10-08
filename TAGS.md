@@ -2,7 +2,7 @@
 
 > 자동 생성 · 총 23개 분류
 
-## Array (15)
+## Array (16)
 
 - [1. Two Sum](Easy/0001-two-sum/)
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
@@ -19,8 +19,9 @@
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [463. Island Perimeter](Easy/0463-island-perimeter/)
+- [953. Verifying an Alien Dictionary](Easy/0953-verifying-an-alien-dictionary/)
 
-## String (7)
+## String (8)
 
 - [3. Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/)
 - [14. Longest Common Prefix](Easy/0014-longest-common-prefix/)
@@ -29,8 +30,9 @@
 - [125. Valid Palindrome](Easy/0125-valid-palindrome/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 - [344. Reverse String](Easy/0344-reverse-string/)
+- [953. Verifying an Alien Dictionary](Easy/0953-verifying-an-alien-dictionary/)
 
-## Hash Table (6)
+## Hash Table (7)
 
 - [1. Two Sum](Easy/0001-two-sum/)
 - [3. Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/)
@@ -38,6 +40,7 @@
 - [169. Majority Element](Easy/0169-majority-element/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
+- [953. Verifying an Alien Dictionary](Easy/0953-verifying-an-alien-dictionary/)
 
 ## Two Pointers (6)
 
