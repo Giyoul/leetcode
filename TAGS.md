@@ -2,7 +2,7 @@
 
 > 자동 생성 · 총 24개 분류
 
-## Array (16)
+## Array (17)
 
 - [1. Two Sum](Easy/0001-two-sum/)
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
@@ -19,6 +19,7 @@
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [463. Island Perimeter](Easy/0463-island-perimeter/)
+- [746. Min Cost Climbing Stairs](Easy/0746-min-cost-climbing-stairs/)
 - [953. Verifying an Alien Dictionary](Easy/0953-verifying-an-alien-dictionary/)
 
 ## String (8)
@@ -72,16 +73,17 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
+## Dynamic Programming (3)
+
+- [70. Climbing Stairs](Easy/0070-climbing-stairs/)
+- [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
+- [746. Min Cost Climbing Stairs](Easy/0746-min-cost-climbing-stairs/)
+
 ## Stack (3)
 
 - [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 - [71. Simplify Path](Medium/0071-simplify-path/)
 - [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
-
-## Dynamic Programming (2)
-
-- [70. Climbing Stairs](Easy/0070-climbing-stairs/)
-- [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
 
 ## Linked List (2)
 

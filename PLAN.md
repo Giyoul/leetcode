@@ -216,7 +216,7 @@
 ## 1-D Dynamic Programming
 
 - 70\. [Easy] ~~Climbing Stairs~~
-- 746\. [Easy] Min Cost Climbing Stairs
+- 746\. [Easy] ~~Min Cost Climbing Stairs~~
 - 1137\. [Easy] N-th Tribonacci Number
 - 5\. [Medium] Longest Palindromic Substring
 - 91\. [Medium] Decode Ways
