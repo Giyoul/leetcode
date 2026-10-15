@@ -1,6 +1,6 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 23개 분류
+> 자동 생성 · 총 24개 분류
 
 ## Array (16)
 
@@ -58,6 +58,13 @@
 - [69. Sqrt(x)](Easy/0069-sqrtx/)
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
 
+## Math (4)
+
+- [2. Add Two Numbers](Medium/0002-add-two-numbers/)
+- [69. Sqrt(x)](Easy/0069-sqrtx/)
+- [70. Climbing Stairs](Easy/0070-climbing-stairs/)
+- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
+
 ## Sorting (4)
 
 - [88. Merge Sorted Array](Easy/0088-merge-sorted-array/)
@@ -65,17 +72,16 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
-## Math (3)
-
-- [2. Add Two Numbers](Medium/0002-add-two-numbers/)
-- [69. Sqrt(x)](Easy/0069-sqrtx/)
-- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
-
 ## Stack (3)
 
 - [20. Valid Parentheses](Easy/0020-valid-parentheses/)
 - [71. Simplify Path](Medium/0071-simplify-path/)
 - [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
+
+## Dynamic Programming (2)
+
+- [70. Climbing Stairs](Easy/0070-climbing-stairs/)
+- [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
 
 ## Linked List (2)
 
@@ -121,13 +127,13 @@
 
 - [169. Majority Element](Easy/0169-majority-element/)
 
-## Dynamic Programming (1)
-
-- [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
-
 ## Greedy (1)
 
 - [11. Container With Most Water](Medium/0011-container-with-most-water/)
+
+## Memoization (1)
+
+- [70. Climbing Stairs](Easy/0070-climbing-stairs/)
 
 ## Newton's Method (1)
 
