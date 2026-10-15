@@ -1,6 +1,6 @@
 # 태그별 문제 인덱스
 
-> 자동 생성 · 총 24개 분류
+> 자동 생성 · 총 26개 분류
 
 ## Array (17)
 
@@ -73,17 +73,23 @@
 - [217. Contains Duplicate](Easy/0217-contains-duplicate/)
 - [242. Valid Anagram](Easy/0242-valid-anagram/)
 
+## Stack (4)
+
+- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
+- [71. Simplify Path](Medium/0071-simplify-path/)
+- [94. Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/)
+- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
+
 ## Dynamic Programming (3)
 
 - [70. Climbing Stairs](Easy/0070-climbing-stairs/)
 - [121. Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/)
 - [746. Min Cost Climbing Stairs](Easy/0746-min-cost-climbing-stairs/)
 
-## Stack (3)
+## Depth-First Search (2)
 
-- [20. Valid Parentheses](Easy/0020-valid-parentheses/)
-- [71. Simplify Path](Medium/0071-simplify-path/)
-- [150. Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/)
+- [94. Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/)
+- [463. Island Perimeter](Easy/0463-island-perimeter/)
 
 ## Linked List (2)
 
@@ -105,6 +111,10 @@
 - [3. Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/)
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
 
+## Binary Tree (1)
+
+- [94. Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/)
+
 ## Boyer–Moore Majority Vote Algorithm (1)
 
 - [169. Majority Element](Easy/0169-majority-element/)
@@ -120,10 +130,6 @@
 ## Counting (1)
 
 - [169. Majority Element](Easy/0169-majority-element/)
-
-## Depth-First Search (1)
-
-- [463. Island Perimeter](Easy/0463-island-perimeter/)
 
 ## Divide and Conquer (1)
 
@@ -144,6 +150,10 @@
 ## Prefix Sum (1)
 
 - [209. Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/)
+
+## Tree (1)
+
+- [94. Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/)
 
 ## Trie (1)
 

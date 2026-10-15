@@ -110,7 +110,7 @@
 
 ## Trees
 
-- 94\. [Easy] Binary Tree Inorder Traversal
+- 94\. [Easy] ~~Binary Tree Inorder Traversal~~
 - 100\. [Easy] Same Tree
 - 104\. [Easy] Maximum Depth of Binary Tree
 - 110\. [Easy] Balanced Binary Tree
